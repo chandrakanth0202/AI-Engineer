@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+
+crewai>=0.126.0
+crewai-tools==0.47.1
+
+langchain
+langchain-openai
+openai
