@@ -131,7 +131,7 @@ from crewai import Agent, Task, Crew, Process
 
 ## Clone the Repository
 
-git clone <your-github-repo-url>
+git clone < https://github.com/chandrakanth0202/AI-Engineer >
 cd financial-document-analyzer
 
 ## Create & Activate Virtual Environment (Windows PowerShell)
